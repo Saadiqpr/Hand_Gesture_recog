@@ -1,0 +1,10 @@
+# Tested package versions from the HandGestureDino development environment
+# Recommended: Python 3.12 on Windows
+
+tensorflow==2.21.0
+opencv-python==5.0.0
+mediapipe==1.2.0
+pygame==2.6.1
+numpy==2.5.4
+matplotlib==3.11.2
+Pillow==13.0.0
